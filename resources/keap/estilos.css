@@ -1,151 +1,154 @@
-<link href="//db.onlinewebfonts.com/c/1b330d6edafaf551be7eff98d23371a8?family=Surveyor+Display+Book"rel="stylesheet"type="text/css"/><link href="//db.onlinewebfonts.com/c/d31d488d2171c1668c15962fc6cf1ef7?family=Gotham+Rounded"rel="stylesheet"type="text/css"/><link href="//db.onlinewebfonts.com/c/ae8f19f441b335c3fda30febf5069c5a?family=Gotham+Rounded"rel="stylesheet"type="text/css"/><style>@font-face {
-    font-family: "Surveyor Display Book";
-    src: url("//db.onlinewebfonts.com/t/1b330d6edafaf551be7eff98d23371a8.eot");
-    src: url("//db.onlinewebfonts.com/t/1b330d6edafaf551be7eff98d23371a8.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/1b330d6edafaf551be7eff98d23371a8.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/1b330d6edafaf551be7eff98d23371a8.woff") format("woff"), url("//db.onlinewebfonts.com/t/1b330d6edafaf551be7eff98d23371a8.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/1b330d6edafaf551be7eff98d23371a8.svg#Surveyor Display Book") format("svg");
-}
+   <link href="//db.onlinewebfonts.com/c/1b330d6edafaf551be7eff98d23371a8?family=Surveyor+Display+Book"rel="stylesheet"type="text/css"/><link href="//db.onlinewebfonts.com/c/d31d488d2171c1668c15962fc6cf1ef7?family=Gotham+Rounded"rel="stylesheet"type="text/css"/><link href="//db.onlinewebfonts.com/c/ae8f19f441b335c3fda30febf5069c5a?family=Gotham+Rounded"rel="stylesheet"type="text/css"/><style>@font-face {
+       font-family: "Surveyor Display Book";
+       src: url("//db.onlinewebfonts.com/t/1b330d6edafaf551be7eff98d23371a8.eot");
+       src: url("//db.onlinewebfonts.com/t/1b330d6edafaf551be7eff98d23371a8.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/1b330d6edafaf551be7eff98d23371a8.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/1b330d6edafaf551be7eff98d23371a8.woff") format("woff"), url("//db.onlinewebfonts.com/t/1b330d6edafaf551be7eff98d23371a8.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/1b330d6edafaf551be7eff98d23371a8.svg#Surveyor Display Book") format("svg");
+   }
 
-@font-face {
-    font-family: "Gotham Rounded";
-    src: url("//db.onlinewebfonts.com/t/d31d488d2171c1668c15962fc6cf1ef7.eot");
-    src: url("//db.onlinewebfonts.com/t/d31d488d2171c1668c15962fc6cf1ef7.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/d31d488d2171c1668c15962fc6cf1ef7.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/d31d488d2171c1668c15962fc6cf1ef7.woff") format("woff"), url("//db.onlinewebfonts.com/t/d31d488d2171c1668c15962fc6cf1ef7.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/d31d488d2171c1668c15962fc6cf1ef7.svg#Gotham Rounded") format("svg");
-}
+   @font-face {
+       font-family: "Gotham Rounded";
+       src: url("//db.onlinewebfonts.com/t/d31d488d2171c1668c15962fc6cf1ef7.eot");
+       src: url("//db.onlinewebfonts.com/t/d31d488d2171c1668c15962fc6cf1ef7.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/d31d488d2171c1668c15962fc6cf1ef7.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/d31d488d2171c1668c15962fc6cf1ef7.woff") format("woff"), url("//db.onlinewebfonts.com/t/d31d488d2171c1668c15962fc6cf1ef7.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/d31d488d2171c1668c15962fc6cf1ef7.svg#Gotham Rounded") format("svg");
+   }
 
-@font-face {
-    font-family: "Gotham Rounded Bold";
-    src: url("//db.onlinewebfonts.com/t/ae8f19f441b335c3fda30febf5069c5a.eot");
-    src: url("//db.onlinewebfonts.com/t/ae8f19f441b335c3fda30febf5069c5a.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/ae8f19f441b335c3fda30febf5069c5a.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/ae8f19f441b335c3fda30febf5069c5a.woff") format("woff"), url("//db.onlinewebfonts.com/t/ae8f19f441b335c3fda30febf5069c5a.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/ae8f19f441b335c3fda30febf5069c5a.svg#Gotham Rounded") format("svg");
-}
+   @font-face {
+       font-family: "Gotham Rounded Bold";
+       src: url("//db.onlinewebfonts.com/t/ae8f19f441b335c3fda30febf5069c5a.eot");
+       src: url("//db.onlinewebfonts.com/t/ae8f19f441b335c3fda30febf5069c5a.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/ae8f19f441b335c3fda30febf5069c5a.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/ae8f19f441b335c3fda30febf5069c5a.woff") format("woff"), url("//db.onlinewebfonts.com/t/ae8f19f441b335c3fda30febf5069c5a.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/ae8f19f441b335c3fda30febf5069c5a.svg#Gotham Rounded") format("svg");
+   }
 
-.title1 {
-    font-family: "Surveyor Display Book";
-    font-size: 4.5rem;
-    line-height: 5.4rem;
-    text-align: center;
-    letter-spacing: 0px;
-    color: #FFFFFF;
-    opacity: 1;
-    margin-bottom: 1.5rem;
-}
+   .title1 {
+       font-family: "Surveyor Display Book";
+       font-size: 4.5rem;
+       line-height: 5.4rem;
+       text-align: center;
+       letter-spacing: 0px;
+       color: #FFFFFF;
+       opacity: 1;
+       margin-bottom: 1.5rem;
+   }
 
-.title2 {
-    /*width: 676px;
+   .title2 {
+       /*width: 676px;
         height: 89px;*/
-    font-family: "Gotham Rounded";
-    font-size: 1.125rem;
-    line-height: 1.35rem;
-    text-align: center;
-    letter-spacing: 0px;
-    align-items: center;
-    color: #ffffff;
-    opacity: 1;
-    padding-left: 2rem;
-    padding-right: 2rem;
-    margin-left: 2rem;
-    margin-right: 2rem;
-    /*padding-top:3rem;*/
-}
+       font-family: "Gotham Rounded";
+       font-size: 1.125rem;
+       line-height: 1.35rem;
+       text-align: center;
+       letter-spacing: 0px;
+       align-items: center;
+       color: #ffffff;
+       opacity: 1;
+       padding-left: 2rem;
+       padding-right: 2rem;
+       margin-left: 2rem;
+       margin-right: 2rem;
+       /*padding-top:3rem;*/
+   }
 
 
-.title3 {
-    /*width: 587px;*/
-    /*height: 49px;*/
-    font-family: "Gotham Rounded Bold";
-    font-size: 1rem;
-    line-height: 1.25rem;
-    text-align: left;
-    letter-spacing: 0px;
-    color: #77797C;
-    opacity: 1;
-    /*padding-top: 2rem;*/
-    padding-left: 3rem !important;
-    padding-right: 3rem !important;
-}
+   .title3 {
+       /*width: 587px;*/
+       /*height: 49px;*/
+       font-family: "Gotham Rounded Bold";
+       font-size: 1rem;
+       line-height: 1.25rem;
+       text-align: left;
+       letter-spacing: 0px;
+       color: #77797C;
+       opacity: 1;
+       /*padding-top: 2rem;*/
+       padding-left: 3rem !important;
+       padding-right: 3rem !important;
+   }
 
-.title4 {
-    /*width: 587px;*/
-    /*height: 49px;*/
-    font-family: "Gotham Rounded";
-    font-size: 1rem;
-    line-height: 1.25rem;
-    text-align: left;
-    letter-spacing: 0px;
-    color: #77797C;
-    opacity: 1;
-    /*padding-top:2rem;
+   .title4 {
+       /*width: 587px;*/
+       /*height: 49px;*/
+       font-family: "Gotham Rounded";
+       font-size: 1rem;
+       line-height: 1.25rem;
+       text-align: left;
+       letter-spacing: 0px;
+       color: #77797C;
+       opacity: 1;
+       /*padding-top:2rem;
         padding-bottom:2rem;*/
-    padding-left: 3rem !important;
-    padding-right: 3rem !important;
-}
+       padding-left: 3rem !important;
+       padding-right: 3rem !important;
+   }
 
-.py-3.px-5.my-4.mx-1.customForm-0-2730285 {
-    padding-top: 2rem;
-    padding-left: 2rem;
-    padding-right: 2rem;
-}
+   .py-3.px-5.my-4.mx-1.customForm-0-2730285 {
+       padding-top: 2rem;
+       padding-left: 2rem;
+       padding-right: 2rem;
+   }
 
-.form-group {
-    font-family: "Gotham Rounded";
-    font-size: 1rem;
-    line-height: 1.25rem;
-    text-align: left;
-    letter-spacing: 0px;
-    margin-bottom: 0.5rem !important;
-}
+   .form-group {
+       font-family: "Gotham Rounded";
+       font-size: 1rem;
+       line-height: 1.25rem;
+       text-align: left;
+       letter-spacing: 0px;
+       margin-bottom: 0.5rem !important;
+   }
 
-select.form-control {
-    display: none;
-}
+   select.form-control {
+       display: none;
+   }
 
-/*Placeholder Ciudad*/
-input[type=text].form-control::placeholder {
-    content: "Ciudad*" !important;
-    height: 2.3rem !important;
-}
+   /*Placeholder Ciudad*/
+   input[type=text].form-control::placeholder {
+       content: "Ciudad*" !important;
+       height: 2.3rem !important;
+   }
 
-/*Abre tu tienda*/
-#d6245efb-d89d-4288-912e-bfbf6e2a9d07 {
-    top: 5rem;
-}
+   /*Abre tu tienda*/
+   #d6245efb-d89d-4288-912e-bfbf6e2a9d07 {
+       top: 5rem;
+   }
 
-img.img-fluid.shadow.rounded {
-    top: 10rem;
-}
+   img.img-fluid.shadow.rounded {
+       top: 10rem;
+   }
 
-.form.form.none {
-    /*padding-right:2rem;
+   .form.form.none {
+       /*padding-right:2rem;
         padding-left:2rem;*/
-}
+   }
 
-input#given_name.form-control {
-    height: 2.3rem;
-}
+   input#given_name.form-control {
+       height: 2.3rem;
+   }
 
-input#family_name.form-control {
-    height: 2.3rem;
-}
+   input#family_name.form-control {
+       height: 2.3rem;
+   }
 
-input#email.form-control {
-    height: 2.3rem;
-}
+   input#email.form-control {
+       height: 2.3rem;
+   }
 
-input#phone.form-control {
-    height: 2.3rem;
-}
+   input#phone.form-control {
+       height: 2.3rem;
+   }
 
+   .form-group input[type=text].form-control {
+       height: 2.3rem;
+   }
 
-div.form-group {
-    padding-bottom: 0rem;
-}
-
-
-.form-check-label {
-    margin-top: 2rem !important;
-    margin-bottom: 2rem !important;
-}
+   div.form-group {
+       padding-bottom: 0rem;
+   }
 
 
-@media only screen and (max-width: 600px) {
-    /* div.title3{
+   .form-check-label {
+       margin-top: 2rem !important;
+       margin-bottom: 2rem !important;
+       text-align: justify;
+   }
+
+   @media only screen and (max-width: 600px) {
+       /* div.title3{
             padding-left: 0rem !important;
             padding-right: 0rem !important;
             padding-top:0rem !important;
@@ -156,38 +159,72 @@ div.form-group {
             padding-right :0rem !important;
         }*/
 
-    div.py-3.px-5.my-4.mx-1.customForm-0-2730285 {
-        padding-left: 0rem !important;
-        padding-right: 0rem !important;
-    }
+       div.py-3.px-5.my-4.mx-1.customForm-0-2730285 {
+           padding-left: 0rem !important;
+           padding-right: 0rem !important;
+       }
 
-    div.py-1.px-5.my-1.mx-1.customForm-0-503138 {
-        padding-left: 0rem !important;
-        padding-right: 0rem !important;
-    }
+       div.py-1.px-5.my-1.mx-1.customForm-0-503138 {
+           padding-left: 0rem !important;
+           padding-right: 0rem !important;
+       }
 
-    div.py-1.px-5.my-1.mx-1.customForm-0-575697 {
-        padding-left: 0rem !important;
-        padding-right: 0rem !important;
-    }
+       div.py-1.px-5.my-1.mx-1.customForm-0-575697 {
+           padding-left: 0rem !important;
+           padding-right: 0rem !important;
+       }
 
-    div.py-5.px-5.my-5.mx-5.col-md-6.col-12.my-md-0.my-2.mx-auto.undefined {
-        padding-top: 0rem !important;
-        padding-left: 0rem !important;
-        padding-right: 0rem !important;
-    }
+       div.py-5.px-5.my-5.mx-5.col-md-6.col-12.my-md-0.my-2.mx-auto.undefined {
+           padding-top: 0rem !important;
+           padding-left: 0rem !important;
+           padding-right: 0rem !important;
+       }
 
-    div.py-1.px-5.my-1.mx-1.customForm-0-534012 {
-        padding-left: 0rem !important;
-        padding-right: 0rem !important;
-    }
-}
+       div.py-1.px-5.my-1.mx-1.customForm-0-534012 {
+           padding-left: 0rem !important;
+           padding-right: 0rem !important;
+       }
+   }
 
-@media only screen and (max-width: 1024px) {
+   @media only screen and (max-width: 1024px) {
 
-     .col-md-6.col-12.my-md-0.my-2.mx-auto.undefined{
-         min-width: 100%
-     }
-}
+       .col-md-6.col-12.my-md-0.my-2.mx-auto.undefined {
+           min-width: 100%;
+       }
 
-</style>
+       .content-0-534535 {
+           min-width: 100%;
+       }
+
+       .py-5.px-5.my-5.mx-5.col-md-6.col-12.my-md-0.my-2.mx-auto.undefined {
+           min-width: 100%;
+       }
+
+       .content-0-534550 {
+           min-width: 100%;
+       }
+
+       div>hr {
+           border-top: 1px solid !important;
+           color: transparent !important;
+       }
+
+
+       .filledInputs {
+           font-weight: bold !important;
+       }
+
+   }
+
+   div>hr {
+       border-top: 1px solid !important;
+       color: transparent !important;
+   }
+
+
+   .filledInputs {
+       font-weight: bold !important;
+   }
+
+
+   </style>
